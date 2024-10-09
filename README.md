@@ -1,5 +1,7 @@
 # Assembly Line
 
-Assembly line project : The aim was to build au automatic drone builder to equip fablabs.
+Projet Assembly Line : L'objectif étant de créer une machine fabricant des drones à la chaine.
 
-Note: The project was stopped at the end of the conceiving phase. Funds were lacking to make it come to life.
+Note: Par manque de fonds, le projet a été arrêté à la fin de la phase de conception. Le document UROP-PrésentationProjetComplet.pdf recense nos travaux.
+
+Projet réalisé en collaboartion avec Théo Lissarague. Son profil GitHub peut être retrouvé dans la liste des contributeurs au projet.
